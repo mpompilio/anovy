@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-anovy-dev-9a859-authRole",
+      "UnauthRoleArn": "arn:aws:iam::205930651949:role/amplify-anovy-dev-9a859-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::205930651949:role/amplify-anovy-dev-9a859-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-anovy-dev-9a859-deployment",
+      "UnauthRoleName": "amplify-anovy-dev-9a859-unauthRole",
+      "StackName": "amplify-anovy-dev-9a859",
+      "StackId": "arn:aws:cloudformation:us-east-1:205930651949:stack/amplify-anovy-dev-9a859/aeb3b360-d815-11ef-92b5-126316ccc15b",
+      "AmplifyAppId": "d3m0zcxmdl5qkn"
+    },
+    "categories": {
+      "auth": {
+        "anovy7f8ec795": {}
+      }
+    }
+  }
+}
